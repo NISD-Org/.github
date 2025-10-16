@@ -1,4 +1,4 @@
-![N.I.S.D. Banner](./assets/banner.png)
+![N.I.S.D. Banner](../assets/banner.png)
 # Nucleo Italiano Sicurezza Discord
 
 **Benvenuto/a!**
